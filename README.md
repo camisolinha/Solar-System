@@ -5,35 +5,20 @@ Solar System
 </a>
 
 ![ivy (1)](https://github.com/user-attachments/assets/f0bf6f7d-7649-44a9-afd2-53cdc581ce4b)
-<h3 align="center">
-Subtítulo
-</h3>
 
-<p align="center">
-• 
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Estudos</a> •
- <a href="#-layout">Imagens</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Utilitários</a> •  
- <a href="#-autor">Autora</a> • 
-</p>
-
----
-
-## 💻 Sobre o projeto • 
+💻 Sobre o projeto • 
 ---
 Solar System é um projeto criado com o intuito de explorar a construção e a movimentação de planetas, simulando seus movimentos de rotação e translação no espaço. Utilizando a poderosa ferramenta Unreal Engine, este projeto foi desenvolvido como parte de uma entrega acadêmica, visando aprimorar habilidades de programação em C++ e aprofundar o conhecimento nas funcionalidades do Unreal Engine.
 
 ---
 
-## 💻 Estudos • 
+💻 Estudos • 
 ---
 • Blueprint: Durante o desenvolvimento do projeto, utilizei o sistema Blueprint da Unreal Engine, que permitiu a criação de movimentação dos planetas sem a necessidade de escrever o código manualmente;
 • Unreal Engine: O projeto proporcionou uma oportunidade para explorar diversas ferramentas e recursos da Unreal Engine, desde a modelagem e texturização dos planetas até a criação de shaders simples, ampliando significativamente o conhecimento sobre a plataforma.
 
 ---
-## 💻 Imagens • 
+💻 Imagens • 
 ---
 
 ![image](https://github.com/user-attachments/assets/25b6cfdb-df0f-4a1a-9ae8-3619f901dd21)
@@ -42,7 +27,7 @@ Solar System é um projeto criado com o intuito de explorar a construção e a m
 
 ---
 
-## 💻 Como Executar • 
+💻 Como Executar • 
 ---
 Para executar este projeto em seu ambiente local, siga os passos abaixo:
 
@@ -52,7 +37,7 @@ Para executar este projeto em seu ambiente local, siga os passos abaixo:
 
 ---
 
-## 💻 Utilitários • 
+💻 Utilitários • 
 ---
 
 • Dados dos planetas: https://www.wolframalpha.com/
@@ -60,7 +45,7 @@ Para executar este projeto em seu ambiente local, siga os passos abaixo:
 
 ---
 
-## 💻 Autora • 
+💻 Autora • 
 ---
 
 Feito por Camille Regel [Entre em contato!](https://www.linkedin.com/in/camille-regel-742408286/)
